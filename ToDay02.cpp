@@ -1,6 +1,8 @@
 /* LANG : C++ */
 #include <iostream>
-
+#include <cmath>
+#include <stdio.h>
+#include <iomanip>
 using namespace std;
 
 int main ()
