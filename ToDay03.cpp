@@ -1,4 +1,4 @@
-/* LANG C++ */
+/* LANG : C++ */
 #include <iostream>
 
 using namespace std;
